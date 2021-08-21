@@ -1,5 +1,5 @@
 import Button from "./src/button"
 import ButtonGroup from "./src/button-group"
-import Icom from "./src/icon"
+import Icon from "./src/icon"
 
-export { Button, ButtonGroup, Icom }
+export { Button, ButtonGroup, Icon }
